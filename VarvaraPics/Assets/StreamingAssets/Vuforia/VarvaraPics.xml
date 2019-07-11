@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="van" size="0.200000 0.271585" />
+    <ImageTarget name="sea" size="0.200000 0.302857" />
+    <ImageTarget name="goldfish" size="0.200000 0.126841" />
+    <ImageTarget name="flowers" size="1.000000 0.735185" />
+    <ImageTarget name="sky" size="1.000000 1.255814" />
+    <ImageTarget name="mountain" size="0.300000 0.197222" />
+  </Tracking>
+</QCARConfig>
